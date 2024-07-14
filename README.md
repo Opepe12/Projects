@@ -1,3 +1,3 @@
 # Project-2---Full-stack-Dev
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ts-41kzfc)
+[View on StackBlitz ⚡️](https://react-ts-ykr7f7.stackblitz.io/)
